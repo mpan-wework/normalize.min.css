@@ -1,6 +1,6 @@
 {
   "name": "@mpan-wework/normalize.min.css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minify normalize.css",
   "main": "dist/main.js",
   "files": [
